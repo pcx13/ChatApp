@@ -1,16 +1,36 @@
-# chat_app
 
-A new Flutter project.
+# Chat App
 
-## Getting Started
+![](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)   ![](https://img.shields.io/badge/Status-Active-brightgreen)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Sign-In via Email
+- Real-Time Messaging (With Firebase)
+- Message Read Status
+- Message Delete & Edit Feature
+- Message Notification (Push Notification)
+- And more Features...
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-43-09-73_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-43-23-16_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-43-33-32_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-43-54-06_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-44-02-39_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-46-57-61_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-44-21-56_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-45-13-23_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-46-24-64_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
+<img align="left" alt="Coding" width="200" src="https://github.com/pcx13/ChatApp/blob/master/screenshots/Screenshot_2023-03-16-15-45-21-86_8c918bf06c4e14a3c6d2957a72894835.jpg?raw=true">
+
